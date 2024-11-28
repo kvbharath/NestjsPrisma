@@ -1,0 +1,9 @@
+# version: '3.3' # Ensure this version matches your Docker Compose version
+
+# services:
+#   mysql:
+#     image: mysql:latest
+#     env_file:
+#       - .env
+#     ports:
+#       - '3306:3306'
